@@ -1,0 +1,18 @@
+<html>
+<div id="exp" class="exp">
+	<div class="page">
+		<div class="instructions">
+			<p> We’re running a pilot study about email communication. The goal of this session is to gather linguistic data about the way people communicate via email.</p>
+
+			<p> You will write responses to two email prompts that we provide. You will also complete three  short surveys, one at the beginning of the study and one after each message. Amazon allows you to spend up to 60 minutes on this task, but we anticipate that it will take only up to 20 minutes. If it takes you significantly longer than this, contact us and we can normalize the payment. </p>
+
+			<p> Email contents will be analyzed as data for our study, but they will not actually be sent, made public, or used for any other purposes. </p> 
+
+			<p> You may access or withdraw your responses at any time after the study. </p>
+
+			<button type = "button" class "space" onclick = "_s.button();">Submit</button>
+		</div>
+
+	</div>
+</div>
+</html> 
