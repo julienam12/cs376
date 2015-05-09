@@ -10,7 +10,7 @@
 
 			<p> You may access or withdraw your responses at any time after the study. </p>
 
-			<button type = "button" class "space" onclick = "_s.button();">Submit</button>
+			<button type = "button" class "space" onclick = "_s.button();">Continue</button>
 		</div>
 
 	</div>
